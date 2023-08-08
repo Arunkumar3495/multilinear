@@ -1,0 +1,2 @@
+# multilinear
+lasso,ridge,linear
